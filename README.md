@@ -151,7 +151,6 @@
 📚 **Started Masters @ Northeastern**
 - Data Analytics Engineering
 - GPA: 3.9/4.0
-- Specializing in MLOps
 
 ---
 
