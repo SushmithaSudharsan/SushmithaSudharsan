@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsan.s@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-sudharsan-2101)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SushmithaSudharsan)
-[![Call](https://img.shields.io/badge/📱_(857)_565_8800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18575658800)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SushmithaSudharsan&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
@@ -205,74 +204,92 @@
 
 ---
 
-### 🏥 Project 1: Healthcare AI - Mortality Prediction System
+### 🏥 Project 1: Mortality Prediction and Patient Segmentation
 
-**Status:** ✅ Completed (Jan 2025) | **Type:** Deep Learning + MLOps
+**Status:** ✅ Completed (Jan 2025) | **Type:** Deep Learning + Ensemble Methods
 
-#### 🎯 The Mission
+#### 🎯 Project Overview
 
-An AI-powered clinical decision support system that predicts patient mortality risk to help doctors identify high-risk patients before emergencies occur.
+Developed a CNN-based predictive model on Electronic Health Record (EHR) data to enhance clinical decision-making and patient risk stratification. The system processes over 10,000 patient records to identify high-risk patients and support healthcare providers in making informed decisions.
 
 #### 🔧 Technical Implementation
 
-**Data:** 10,000+ Electronic Health Records  
+**Dataset:** 10,000+ Electronic Health Records (EHR)
 
-**Models:**  
-- CNN for temporal patterns
-- XGBoost for tabular features
-- Random Forest for ensemble
-
-**Deployment:** FastAPI + Docker  
+**Key Components:**
+- **CNN Model:** Deep learning architecture for temporal pattern recognition in patient health data
+- **Ensemble Methods:** Combined Random Forest and XGBoost for robust predictions
+- **Feature Pipeline:** Engineered feature extraction pipeline for processing temporal clinical data
 
 **Tech Stack:**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-#### 📊 Performance Metrics
+#### 📊 Results & Impact
 
-**Model Results:**
+**Model Performance:**
 - 🎯 Accuracy: **95%**
-- 📊 Precision: **93%**
-- 🔍 Recall: **94%**
-- ⚡ F1-Score: **93.5%**
+- 📈 Risk Assessment Precision: **+18% improvement**
+- 🏥 Patient Records Processed: **10,000+**
+- 🔍 Patient Risk Stratification: Successfully implemented
 
-**Impact:**
-- ✅ 18% improvement vs baseline
-- ✅ Sub-second inference time
-- ✅ Real-time predictions
-- ✅ Production-ready deployment
+**Key Achievements:**
+- ✅ Enhanced clinical decision-making capabilities
+- ✅ Accurate mortality prediction for patient care
+- ✅ Effective patient segmentation by risk levels
+- ✅ Temporal data processing for better insights
 
-#### 🧠 Key Features
+#### 🔧 Key Features
 
-✅ Deep learning for health patterns  
-✅ Ensemble methods for accuracy  
-✅ Temporal feature extraction  
-✅ Dockerized microservices  
-✅ RESTful API endpoints  
+**Data Processing:**
+- Engineered comprehensive feature extraction pipeline
+- Processed temporal clinical data effectively
+- Handled complex EHR data structures
+- Implemented data preprocessing techniques
 
-#### 🚀 What I Learned
+**Model Architecture:**
+- CNN for deep pattern recognition
+- Random Forest for ensemble learning
+- XGBoost for gradient boosting
+- Combined approach for 95% accuracy
+
+**Clinical Applications:**
+- Patient risk stratification
+- Mortality prediction
+- Clinical decision support
+- Early intervention identification
+
+#### 🧠 What I Learned
 
 **Technical Skills:**
-- Building end-to-end ML pipelines from data to deployment
-- Working with healthcare data and domain constraints
-- Ensemble model architectures for better performance
-- Docker containerization for reproducible ML systems
+- Working with Electronic Health Records (EHR)
+- Building CNN architectures for healthcare data
+- Implementing ensemble methods (Random Forest + XGBoost)
+- Feature engineering for temporal clinical data
+- Model evaluation and performance optimization
 
-**Next Steps:**
-- Adding explainable AI (SHAP/LIME) for interpretability
-- Implementing drift detection for production monitoring
-- Scaling to larger datasets with distributed training
-- Learning HIPAA compliance for healthcare deployments
+**Domain Knowledge:**
+- Understanding healthcare data challenges
+- Clinical decision-making requirements
+- Patient risk stratification methods
+- Temporal data processing in healthcare
+
+**Data Science:**
+- Handling large-scale patient datasets
+- Processing complex medical data
+- Balancing model accuracy with interpretability
+- Evaluation metrics for healthcare applications
 
 ---
 
 ### 💰 Project 2: Financial Stress Testing Platform
 
-**Status:** 🔄 Active Development (Dec 2025) | **Type:** MLOps + Time Series | **Progress:** 85%
+**Status:** Completed: Dec 2025 (Trying Improvements) | **Type:** MLOps + Time Series | **Progress:** 85%
 
 #### 🎯 The Challenge
 
@@ -363,7 +380,7 @@ Looking to connect with:
 - Financial ML specialists
 - Mentors for best practices guidance
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SushmithaSudharsan/financial-stress-platform)
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises)
 
 ---
 
@@ -490,23 +507,11 @@ Worked on computer vision projects to improve ML model performance through advan
 **🥈 Hackathon Runner-Up**  
 Data Mining Competition | **April 2025**
 
-- Built end-to-end ML pipeline in 48 hours
+- Built end-to-end ML pipeline in a fast paced Hackathon
 - Team collaboration & rapid prototyping
 - Delivered compelling data story
 
 ---
-
-**📄 IEEE Publication**  
-EEG Research Paper | **May 2024**
-
-- 96% accuracy in attention detection
-- International conference presentation
-- Contribution to educational technology
-
----
-
-**🎓 Academic Excellence**  
-Northeastern University | **GPA: 3.9/4.0**
 
 </div>
 
@@ -535,8 +540,6 @@ Northeastern University | **GPA: 3.9/4.0**
 **MS in Data Analytics Engineering**  
 Sep 2024 - April 2026 | **GPA: 3.9/4.0**
 
-Specializing in Data Analytics Engineering
-
 **Key Courses:**
 - ✅ Supervised Machine Learning
 - ✅ Data Mining Techniques
@@ -551,11 +554,9 @@ Specializing in Data Analytics Engineering
 
 **🌟 SRM Institute of Science and Technology** | Chennai, India  
 **B.Tech Computer Science (AI & ML Specialization)**  
-2020 - May 2024
+Sept 2020 - May 2024
 
 **Achievements:**
-- 📄 IEEE Research Publication
-- 🧠 96% Accuracy EEG Project
 - 🎓 Strong AI/ML Foundation
 - 💻 Multiple ML Projects
 
@@ -563,7 +564,6 @@ Specializing in Data Analytics Engineering
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Data Science
 - Neural Networks
 
 </div>
@@ -622,13 +622,11 @@ I'm not afraid to admit what I don't know - that's where growth begins. Every pr
 [![Email](https://img.shields.io/badge/Email_Me-sudharsan.s@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsan.s@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-sudharsan-2101)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SushmithaSudharsan)
-[![Phone](https://img.shields.io/badge/Call_Me-(857)_565_8800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18575658800)
 
 ### ⚡ Response Time
 
 📧 **Email:** Within 24 hours  
 💼 **LinkedIn:** Same day  
-📱 **Phone:** For urgent matters  
 
 </div>
 
