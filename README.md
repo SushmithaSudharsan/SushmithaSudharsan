@@ -18,7 +18,7 @@
 🎯 ML enthusiast passionate about **Financial Modeling** & **Neurotechnology**  
 🔬 **IEEE Published Researcher** (96% accuracy EEG attention detection)  
 🏆 Data Mining Hackathon **Runner-Up** (April 2025)  
-💼 Seeking **entry-level ML/MLOps/Quant roles** starting Jan 2027
+💼 Seeking **entry-level ML/MLOps/Quant roles** starting June 2026
 
 ---
 
