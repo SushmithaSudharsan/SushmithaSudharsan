@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sushmitha Sudharsan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Graduate+ML+Engineer;Financial+ML+%7C+Neurotechnology;Building+Production+ML+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Graduate+Student;Financial+ML+%7C+Neurotechnology;Learning+Production+ML+Systems" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsan.s@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-sudharsan-2101)
@@ -13,9 +13,9 @@
 
 ## 🎓 About Me
 
-> **MS Data Analytics Engineering @ Northeastern University** • **GPA: 3.85** • **Graduating Dec 2026**
+> **MS Data Analytics Engineering @ Northeastern University** • **GPA: 3.85** • **Graduating April 2026**
 
-🎯 Graduate student specializing in **Financial Modeling** & **Neurotechnology**  
+🎯 Graduate student building projects in **Financial ML** & **Neurotechnology**  
 🔬 **IEEE Published Researcher** (96% accuracy EEG attention detection)  
 🏆 Data Mining Hackathon **Runner-Up** (April 2025)  
 💼 Seeking **entry-level ML/MLOps/Quant roles** starting June 2026
@@ -26,21 +26,21 @@
 
 ### 💰 [Financial Stress Analysis Platform](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises) | 🎤 Presented at Google Expo
 
-End-to-end MLOps platform processing 25 years of financial data with ensemble ML (VAE, XGBoost, LightGBM - 0.87 AUC)
+**Course Project:** Built end-to-end MLOps platform processing 25 years of financial data with ensemble ML (VAE, XGBoost, LightGBM - 0.87 AUC)
 
 **Tech:** Apache Airflow • Docker • GCP Cloud Run • MLflow • FastAPI • Prometheus • Grafana
 
-**Key Features:**
+**What I Built:**
 - Automated ETL pipelines for 13 macroeconomic indicators
 - CI/CD with GitHub Actions
 - Real-time drift detection and monitoring
-- Production-ready deployment on GCP
+- Deployed on GCP Cloud Run
 
 ---
 
 ### 🧠 EEG-Based Learning Analysis | 📄 [IEEE Published](https://ieeexplore.ieee.org/abstract/document/10601997/)
 
-Built RNN model achieving **96% accuracy** detecting attention patterns from brainwave signals using NeuroSky hardware
+**Undergraduate Research:** Built RNN model achieving **96% accuracy** detecting attention patterns from brainwave signals using NeuroSky hardware
 
 **Tech:** Python • TensorFlow • RNN • Signal Processing • K-means Clustering
 
@@ -50,20 +50,20 @@ Built RNN model achieving **96% accuracy** detecting attention patterns from bra
 
 ### 🏥 Mortality Prediction System
 
-CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble methods (Random Forest, XGBoost)
+**Academic Project:** CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble methods (Random Forest, XGBoost)
 
 **Tech:** TensorFlow • XGBoost • Feature Engineering • Healthcare Analytics
 
-**Impact:** 18% improvement in risk assessment precision for clinical decision support
+**Learning:** 18% improvement in risk assessment precision through temporal feature engineering
 
 ---
 
 ## 💼 Experience
 
-**Solutions Trainee** | Whirl Data Inc. | Jun - Sep 2023
-- Improved computer vision model accuracy by **15%** through advanced preprocessing
+**Solutions Trainee (Internship)** | Whirl Data Inc. | Jun - Sep 2023
+- Summer internship improving computer vision models by **15%** through data preprocessing
 - Processed 1,000+ video frames using OpenCV and Python
-- Reduced model training noise by **12%** through data quality improvements
+- Reduced model training noise by **12%** through normalization and denoising
 
 ---
 
@@ -71,7 +71,7 @@ CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble 
 
 **ML/DL:** Python • TensorFlow • PyTorch • Scikit-learn • XGBoost • LightGBM
 
-**MLOps:** Docker • Apache Airflow • MLflow • DVC • Great Expectations • CI/CD • Git
+**MLOps (Learning):** Docker • Apache Airflow • MLflow • DVC • Great Expectations • CI/CD • Git
 
 **Cloud & APIs:** GCP • Cloud Run • FastAPI • Prometheus • Grafana
 
@@ -85,13 +85,16 @@ CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble 
 
 🥈 **Data Mining Hackathon Runner-Up** (April 2025)  
 📄 **IEEE Publication Author** (May 2024) - 96% accuracy EEG research  
-🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform 
+🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform  
+🎓 **3.85 GPA** - Dean's List recognition
 
 ---
 
 ## 🎓 Education
 
 **Northeastern University** | MS Data Analytics Engineering | Dec 2026 | **GPA: 3.85**
+- Relevant Courses: MLOps, Data Mining, Supervised ML, Data Management, Data Analytics
+- Upcoming: Generative AI, Data Warehousing
 
 **SRM Institute** | B.Tech Computer Science (AI & ML) | May 2024
 
@@ -110,15 +113,15 @@ CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble 
 
 <div align="center">
 
-### 💡 Looking For
+### 💡 Seeking Entry-Level Opportunities
 
-Entry-Level **ML Engineer** • **MLOps Engineer** • **Data Scientist** • **Quantitative Analyst** roles
+**ML Engineer** • **MLOps Engineer** • **Data Scientist** • **Quantitative Analyst**
 
 Particularly interested in: FinTech • Quantitative Finance • Neurotechnology • Production ML
 
 ---
 
-**⭐ Interested in my work? Star my repos and let's connect!**
+**⭐ Interested in my projects? Star my repos and let's connect!**
 
 <img src="https://komarev.com/ghpvc/?username=SushmithaSudharsan&label=Profile%20Views&color=00D9FF&style=flat-square" />
 
