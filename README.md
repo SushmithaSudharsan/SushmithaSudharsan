@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sushmitha Sudharsan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Financial+ML;Neurotechnology+Enthusiast;Building+Production+ML+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Graduate+ML+Engineer;Financial+ML+%7C+Neurotechnology;Building+Production+ML+Systems" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsan.s@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-sudharsan-2101)
@@ -15,7 +15,7 @@
 
 > **MS Data Analytics Engineering @ Northeastern University** • **GPA: 3.85** • **Graduating Dec 2026**
 
-🎯 ML enthusiast passionate about **Financial Modeling** & **Neurotechnology**  
+🎯 Graduate student specializing in **Financial Modeling** & **Neurotechnology**  
 🔬 **IEEE Published Researcher** (96% accuracy EEG attention detection)  
 🏆 Data Mining Hackathon **Runner-Up** (April 2025)  
 💼 Seeking **entry-level ML/MLOps/Quant roles** starting June 2026
@@ -85,8 +85,7 @@ CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble 
 
 🥈 **Data Mining Hackathon Runner-Up** (April 2025)  
 📄 **IEEE Publication Author** (May 2024) - 96% accuracy EEG research  
-🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform  
-🎓 **3.85 GPA** - Dean's List recognition
+🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform 
 
 ---
 
@@ -105,7 +104,7 @@ CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble 
 📧 **Email:** sudharsan.s@northeastern.edu  
 💼 **LinkedIn:** [linkedin.com/in/sushmitha-sudharsan-2101](https://www.linkedin.com/in/sushmitha-sudharsan-2101)  
 📍 **Location:** Boston, MA | Open to relocation  
-🎯 **Available:** January 2027
+🎯 **Available:** June 2026
 
 ---
 
