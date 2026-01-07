@@ -86,7 +86,6 @@
 🥈 **Data Mining Hackathon Runner-Up** (April 2025)  
 📄 **IEEE Publication Author** (May 2024) - 96% accuracy EEG research  
 🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform  
-🎓 **3.85 GPA** - Dean's List recognition
 
 ---
 
