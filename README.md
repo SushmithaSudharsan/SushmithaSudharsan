@@ -1,127 +1,180 @@
 <div align="center">
-  
-# 👋 Hi, I'm Sushmitha Sudharsan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Graduate+Student;Financial+ML+%7C+Neurotechnology;Learning+Production+ML+Systems" alt="Typing SVG" />
+# Sushmitha Sudharsan
 
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsan.s@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-sudharsan-2101)
+### Machine Learning · Generative AI · MLOps · Cloud · Data Engineering
+
+I believe the model is only part of the story.
+
+I'm interested in everything around it: the data, the engineering,
+the infrastructure, and the journey from an experiment to something
+people can actually use.
+
+[Portfolio](https://sushmithasudharsan.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/sushmitha-sudharsan-2101) ·
+[Email](mailto:sudharsan.s@northeastern.edu)
 
 </div>
 
 ---
 
-## 🎓 About Me
+## About Me
 
-> **MS Data Analytics Engineering @ Northeastern University** • **GPA: 3.85** • **Graduating April 2026**
+I have a background in **Computer Science and Data Analytics Engineering**,
+with most of my work focused on machine learning, generative AI, and
+building systems around them.
 
-🎯 Graduate student building projects in **Financial ML** & **Neurotechnology**  
-🔬 **IEEE Published Researcher** (96% accuracy EEG attention detection)  
-🏆 Data Mining Hackathon **Runner-Up** (April 2025)  
-💼 Seeking **entry-level ML/MLOps/Quant roles** starting June 2026
+I'm particularly interested in understanding what happens beyond the
+model: how data is prepared, how components connect, and what it takes
+to move an idea from experimentation toward a usable system.
 
----
-
-## 🚀 Featured Projects
-
-### 💰 [Financial Stress Analysis Platform](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises) | 🎤 Presented at Google Expo
-
-**Course Project:** Built end-to-end MLOps platform processing 25 years of financial data with ensemble ML (VAE, XGBoost, LightGBM - 0.87 AUC)
-
-**Tech:** Apache Airflow • Docker • GCP Cloud Run • MLflow • FastAPI • Prometheus • Grafana
-
-**What I Built:**
-- Automated ETL pipelines for 13 macroeconomic indicators
-- CI/CD with GitHub Actions
-- Real-time drift detection and monitoring
-- Deployed on GCP Cloud Run
+I'm currently expanding into **cloud, data engineering, and MLOps**,
+while continuing to build projects across machine learning and AI.
 
 ---
 
-### 🧠 EEG-Based Learning Analysis | 📄 [IEEE Published](https://ieeexplore.ieee.org/abstract/document/10601997/)
+## What I Work With
 
-**Undergraduate Research:** Built RNN model achieving **96% accuracy** detecting attention patterns from brainwave signals using NeuroSky hardware
+**Machine Learning**  
+Python · PyTorch · TensorFlow · Scikit-learn · XGBoost
 
-**Tech:** Python • TensorFlow • RNN • Signal Processing • K-means Clustering
+**Generative AI**  
+LLMs · LangChain · FAISS · GPT-4o · Hugging Face · RAG
 
-**Impact:** Real-time cognitive state classification for personalized e-learning
+**Data**  
+SQL · Pandas · NumPy · Data Preprocessing · ETL
 
----
+**Cloud & AI**  
+Azure · Azure AI · Azure Storage · Databricks · GCP
 
-### 🏥 Mortality Prediction System
+**MLOps & Engineering**  
+Git · Docker · MLflow · Apache Airflow · CI/CD · FastAPI
 
-**Academic Project:** CNN-based model on 10,000+ EHR records achieving **95% accuracy** with ensemble methods (Random Forest, XGBoost)
-
-**Tech:** TensorFlow • XGBoost • Feature Engineering • Healthcare Analytics
-
-**Learning:** 18% improvement in risk assessment precision through temporal feature engineering
-
----
-
-## 💼 Experience
-
-**Solutions Trainee (Internship)** | Whirl Data Inc. | Jun - Sep 2023
-- Summer internship improving computer vision models by **15%** through data preprocessing
-- Processed 1,000+ video frames using OpenCV and Python
-- Reduced model training noise by **12%** through normalization and denoising
+**Currently Exploring**  
+Data Engineering · Azure Databricks · Kubernetes · Production ML Systems
 
 ---
 
-## 💡 Skills
+## Projects
 
-**ML/DL:** Python • TensorFlow • PyTorch • Scikit-learn • XGBoost • LightGBM
+### MLOps Financial Forecasting Platform
 
-**MLOps (Learning):** Docker • Apache Airflow • MLflow • DVC • Great Expectations • CI/CD • Git
+An end-to-end ML project exploring financial forecasting together with
+automated pipelines, experiment tracking, deployment, and monitoring.
 
-**Cloud & APIs:** GCP • Cloud Run • FastAPI • Prometheus • Grafana
+**PyTorch · XGBoost · Airflow · MLflow · Docker · GCP · FastAPI**
 
-**Data:** Pandas • NumPy • SQL • ETL Pipelines • Time Series Analysis
-
-**Visualization:** Power BI • Tableau • Matplotlib • Seaborn • Streamlit
-
----
-
-## 🏆 Achievements
-
-🥈 **Data Mining Hackathon Runner-Up** (April 2025)  
-📄 **IEEE Publication Author** (May 2024) - 96% accuracy EEG research  
-🎤 **Google Expo Presenter** (Dec 2025) - Financial ML platform  
+[View Repository →](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises)
 
 ---
 
-## 🎓 Education
+### GenAI Sports Analysis Chatbot
 
-**Northeastern University** | MS Data Analytics Engineering | Dec 2026 | **GPA: 3.85**
-- Relevant Courses: MLOps, Data Mining, Supervised ML, Data Management, Data Analytics
-- Upcoming: Generative AI, Data Warehousing
+A conversational AI system for answering World Cup statistics questions
+using retrieval, vector search, tools, an agent-based architecture, and
+an LLM.
 
-**SRM Institute** | B.Tech Computer Science (AI & ML) | May 2024
+**LangChain · FAISS · GPT-4o · Gradio**
 
-**Certifications:** Power BI • Data Mining • Generative AI • Advanced Excel
+[View Repository →](#)
 
 ---
 
-## 🤝 Let's Connect!
+### VisionScript: Multimodal Image Captioning
 
-📧 **Email:** sudharsan.s@northeastern.edu  
-💼 **LinkedIn:** [linkedin.com/in/sushmitha-sudharsan-2101](https://www.linkedin.com/in/sushmitha-sudharsan-2101)  
-📍 **Location:** Boston, MA | Open to relocation  
-🎯 **Available:** June 2026
+A multimodal AI project combining image understanding and language
+generation to produce descriptions in different styles.
+
+**CLIP · BLIP · GPT-2 · PyTorch · Hugging Face**
+
+[View Repository →](#)
+
+---
+
+### ICU Mortality and Length of Stay Prediction
+
+A healthcare analytics project using MIMIC-IV clinical data to explore
+early prediction of ICU mortality and length of stay using information
+from the first 24 hours of ICU admission.
+
+**Python · Pandas · Scikit-learn · XGBoost · MIMIC-IV**
+
+[View Repository →](#)
+
+---
+
+## Research
+
+### EEG-Based Learning Analysis
+
+Undergraduate research exploring classroom engagement and fatigue using
+EEG signals and recurrent neural networks.
+
+The work resulted in a **first-author IEEE publication**.
+
+**Python · TensorFlow · RNN · Signal Processing**
+
+[Read the IEEE Publication →](https://ieeexplore.ieee.org/abstract/document/10601997/)
+
+---
+
+## Experience
+
+**Solutions Trainee Intern · Whirl Data Inc.**
+
+Worked with image data and computer vision workflows, with a focus on
+data quality and preprocessing.
+
+---
+
+## Education
+
+**Northeastern University**  
+MS · Data Analytics Engineering
+
+**SRM Institute of Science and Technology**  
+B.Tech · Computer Science with Artificial Intelligence and Machine Learning
+
+---
+
+## Certifications
+
+**Completed**
+
+- Microsoft Azure Fundamentals · AZ-900
+- Microsoft Azure AI Fundamentals · AI-901
+- AWS Prompt Engineering
+- AWS Generative AI
+
+**Currently Pursuing**
+
+- Microsoft Azure Databricks Data Engineering · DP-750
+
+---
+
+## Currently Learning
+
+I'm currently spending more time outside the notebook:
+
+- Data engineering and pipelines
+- Azure and Databricks
+- MLOps workflows
+- Deployment and monitoring
+- Kubernetes
+- Production ML systems
+
+I'm interested in understanding the complete path:
+
+**Data → Model → Application → Deployment → Monitoring**
 
 ---
 
 <div align="center">
 
-### 💡 Seeking Entry-Level Opportunities
+### Let's Connect
 
-**ML Engineer** • **MLOps Engineer** • **Data Scientist** • **Quantitative Analyst**
-
-Particularly interested in: FinTech • Quantitative Finance • Neurotechnology • Production ML
-
----
-
-**⭐ Interested in my projects? Star my repos and let's connect!**
-
-<img src="https://komarev.com/ghpvc/?username=SushmithaSudharsan&label=Profile%20Views&color=00D9FF&style=flat-square" />
+[Portfolio](https://sushmithasudharsan.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/sushmithasudharsan-2101) ·
+[Email](mailto:sudharsan.s@northeastern.edu)
 
 </div>
