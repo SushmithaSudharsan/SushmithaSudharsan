@@ -2,179 +2,108 @@
 
 # Sushmitha Sudharsan
 
-### Machine Learning · Generative AI · MLOps · Cloud · Data Engineering
+### AI/ML Engineer · Machine Learning · Generative AI · MLOps
 
-I believe the model is only part of the story.
+I believe the model is only part of the story. I'm most interested in what happens around it: where the data comes from, how the pieces connect, and what it takes to make something people can actually use.
 
-I'm interested in everything around it: the data, the engineering,
-the infrastructure, and the journey from an experiment to something
-people can actually use.
+**Open to full-time AI/ML roles · Chennai, Bangalore or remote · Available immediately**
 
 [Portfolio](https://sushmithasudharsan.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/sushmitha-sudharsan-2101) ·
-[Email](mailto:sudharsan.s@northeastern.edu)
+[LinkedIn](https://www.linkedin.com/in/sushmitha-sudharsan-2101/) ·
+[Contact](https://sushmithasudharsan.github.io/contact/)
 
 </div>
 
 ---
 
-## About Me
+## Featured projects
 
-I have a background in **Computer Science and Data Analytics Engineering**,
-with most of my work focused on machine learning, generative AI, and
-building systems around them.
+### Financial Stress Test Platform
+What if a past financial crisis happened again? An end-to-end MLOps platform that stress-tests 100 companies against scenarios like 2008 and COVID.
 
-I'm particularly interested in understanding what happens beyond the
-model: how data is prepared, how components connect, and what it takes
-to move an idea from experimentation toward a usable system.
+- **My role:** CI/CD and deployment, team of 6
+- **Result:** code push to deployed model on GCP with no manual steps, under 200 ms p99, weekly drift monitoring
 
-I'm currently expanding into **cloud, data engineering, and MLOps**,
-while continuing to build projects across machine learning and AI.
+`Airflow` `MLflow` `Docker` `FastAPI` `GCP Cloud Run` `Prometheus` `Grafana`
 
----
+[Case study](https://sushmithasudharsan.github.io/projects/financial-stress-test/) · [Code](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises)
 
-## What I Work With
+### World Cup Analyst Chatbot
+How do you stop an LLM from making up sports stats? A ReAct agent that answers questions over 49K+ matches, with statistics computed in code. Built in a 48-hour hackathon.
 
-**Machine Learning**  
-Python · PyTorch · TensorFlow · Scikit-learn · XGBoost
+- **My role:** data pipeline, validation, FAISS vector store, prompt templates, team of 3
 
-**Generative AI**  
-LLMs · LangChain · FAISS · GPT-4o · Hugging Face · RAG
+`LangChain` `FAISS` `GPT-4o` `Gradio`
 
-**Data**  
-SQL · Pandas · NumPy · Data Preprocessing · ETL
-
-**Cloud & AI**  
-Azure · Azure AI · Azure Storage · Databricks · GCP
-
-**MLOps & Engineering**  
-Git · Docker · MLflow · Apache Airflow · CI/CD · FastAPI
-
-**Currently Exploring**  
-Data Engineering · Azure Databricks · Kubernetes · Production ML Systems
-
----
-
-## Projects
-
-### MLOps Financial Forecasting Platform
-
-An end-to-end ML project exploring financial forecasting together with
-automated pipelines, experiment tracking, deployment, and monitoring.
-
-**PyTorch · XGBoost · Airflow · MLflow · Docker · GCP · FastAPI**
-
-[View Repository →](https://github.com/SushmithaSudharsan/Mlops_Project_FinancialCrises)
-
----
-
-### GenAI Sports Analysis Chatbot
-
-A conversational AI system for answering World Cup statistics questions
-using retrieval, vector search, tools, an agent-based architecture, and
-an LLM.
-
-**LangChain · FAISS · GPT-4o · Gradio**
-
-[View Repository →](#)
-
----
+[Case study](https://sushmithasudharsan.github.io/projects/world-cup-chatbot/) · [Code](https://github.com/SushmithaSudharsan/GenAI_Hackathon_Grp5)
 
 ### VisionScript: Multimodal Image Captioning
+Can a model describe what's actually in an image? A CLIP to GPT-2 captioner, then a BLIP app with captions, paragraphs and visual Q&A.
 
-A multimodal AI project combining image understanding and language
-generation to produce descriptions in different styles.
+- **My role:** system architecture, team of 4
 
-**CLIP · BLIP · GPT-2 · PyTorch · Hugging Face**
+`CLIP` `BLIP` `GPT-2` `PyTorch` `Hugging Face`
 
-[View Repository →](#)
+[Case study](https://sushmithasudharsan.github.io/projects/visionscript/) · [Code](https://github.com/SushmithaSudharsan/VisionScript-ImageCaptioning-BLIP) · [Live demo](https://huggingface.co/spaces/Simi2407/VisionScript)
 
----
+### ICU Mortality & Length-of-Stay Prediction
+Can the first 24 hours predict how long a patient stays in the ICU? Models trained on MIMIC-IV data from about 94,000 ICU admissions.
 
-### ICU Mortality and Length of Stay Prediction
+- **My role:** length-of-stay regression, team of 2
+- **Result:** MAE of 0.94 to 0.96 days, under the 1-day target. Mortality model at 0.90 ROC-AUC.
 
-A healthcare analytics project using MIMIC-IV clinical data to explore
-early prediction of ICU mortality and length of stay using information
-from the first 24 hours of ICU admission.
+`Python` `Pandas` `Scikit-learn` `XGBoost` `MIMIC-IV`
 
-**Python · Pandas · Scikit-learn · XGBoost · MIMIC-IV**
-
-[View Repository →](#)
+[Case study](https://sushmithasudharsan.github.io/projects/icu-prediction/) · [Code](https://github.com/SushmithaSudharsan/icu-mortality-prediction-using-ehr-data)
 
 ---
 
 ## Research
 
-### EEG-Based Learning Analysis
+**Learning Behavior Analysis for Personalized E-Learning using EEG Signals** · IEEE, 2024 · First author
 
-Undergraduate research exploring classroom engagement and fatigue using
-EEG signals and recurrent neural networks.
+Detected classroom engagement and fatigue from EEG signals of 30 participants with LSTM-based recurrent networks, reaching 96% accuracy.
 
-The work resulted in a **first-author IEEE publication**.
-
-**Python · TensorFlow · RNN · Signal Processing**
-
-[Read the IEEE Publication →](https://ieeexplore.ieee.org/abstract/document/10601997/)
+[Read the paper](https://ieeexplore.ieee.org/abstract/document/10601997/)
 
 ---
 
 ## Experience
 
-**Solutions Trainee Intern · Whirl Data Inc.**
+**Graduate Teaching Assistant, Data Mining (IE 7275)** · Northeastern University
 
-Worked with image data and computer vision workflows, with a focus on
-data quality and preprocessing.
+**Data Analyst Intern** · Whirl Data Inc. · 2023
+Built a Python and OpenCV pipeline that scored 10,000+ dashcam frames for image quality ahead of plate-detection training.
 
 ---
 
 ## Education
 
-**Northeastern University**  
-MS · Data Analytics Engineering
-
-**SRM Institute of Science and Technology**  
-B.Tech · Computer Science with Artificial Intelligence and Machine Learning
+**MS, Data Analytics Engineering** · Northeastern University, Boston · 2026
+**B.Tech, Computer Science (AI & ML)** · SRM Institute of Science and Technology, Chennai · 2024
 
 ---
 
-## Certifications
+## Tools
 
-**Completed**
+| Area | Tools |
+|---|---|
+| Machine learning | Python, PyTorch, TensorFlow, Scikit-learn, XGBoost |
+| Generative AI | LLMs, RAG, LangChain, FAISS, Hugging Face |
+| Data | SQL, Pandas, NumPy, ETL |
+| MLOps | Git, Docker, MLflow, Airflow, CI/CD, FastAPI |
+| Cloud | GCP, Azure, Databricks |
 
-- Microsoft Azure Fundamentals · AZ-900
-- Microsoft Azure AI Fundamentals · AI-901
-- AWS Prompt Engineering
-- AWS Generative AI
+**Certifications:** Microsoft Azure Fundamentals (AZ-900) · Microsoft Azure AI Fundamentals (AI-901) · AWS Prompt Engineering · AWS Generative AI · Azure Databricks Data Engineering (DP-750, in progress)
 
-**Currently Pursuing**
-
-- Microsoft Azure Databricks Data Engineering · DP-750
-
----
-
-## Currently Learning
-
-I'm currently spending more time outside the notebook:
-
-- Data engineering and pipelines
-- Azure and Databricks
-- MLOps workflows
-- Deployment and monitoring
-- Kubernetes
-- Production ML systems
-
-I'm interested in understanding the complete path:
-
-**Data → Model → Application → Deployment → Monitoring**
+**Learning now:** Azure Databricks, Kubernetes, and production ML systems
 
 ---
 
 <div align="center">
 
-### Let's Connect
-
 [Portfolio](https://sushmithasudharsan.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/sushmithasudharsan-2101) ·
-[Email](mailto:sudharsan.s@northeastern.edu)
+[LinkedIn](https://www.linkedin.com/in/sushmitha-sudharsan-2101/) ·
+[Contact](https://sushmithasudharsan.github.io/contact/)
 
 </div>
